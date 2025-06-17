@@ -1,5 +1,4 @@
 // src/components/SkillsSection.tsx
-import React from "react";
 import "react-circular-progressbar/dist/styles.css";
 import {
   CircularProgressbar,

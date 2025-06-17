@@ -1,4 +1,3 @@
-import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import webrs from "../assets/webbbrs.jpeg";
 import tanswa from "../assets/TANSWA.png";

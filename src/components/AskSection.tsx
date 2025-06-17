@@ -1,9 +1,8 @@
-import React from "react";
 import avatar1 from "../assets/avatar.png";
 import avatar2 from "../assets/avatar2.png";
 import avatar3 from "../assets/avatar.png";
 import avatar4 from "../assets/avatar2.png";
-import { FaGithub, FaInstagram, FaLinkedin, FaEnvelope } from "react-icons/fa";
+import { FaGithub, FaInstagram, FaLinkedin } from "react-icons/fa";
 
 export default function AskSection() {
   return (

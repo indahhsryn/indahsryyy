@@ -1,4 +1,3 @@
-import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Bigdata from "../assets/bigdata.png";
 import Machine from "../assets/machinelearning.jpeg";

@@ -1,4 +1,3 @@
-import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Mobile from "../assets/mobi;ewisata.jpeg";
 import pilkosis from "../assets/pilkosis.png";

@@ -1,4 +1,3 @@
-import React, { useState } from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import indahImage from "../assets/indah.jpeg";
 import indah2Image from "../assets/indahh2.jpeg";
